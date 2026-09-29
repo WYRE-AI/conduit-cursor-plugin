@@ -1,0 +1,25 @@
+{
+  "name": "conduit",
+  "displayName": "Conduit by WYRE AI",
+  "version": "0.1.0",
+  "description": "Conduit by WYRE AI \u2014 hosted MCP gateway for MSPs. One governed HTTPS endpoint with organization isolation, role-based permissions, and audit logs for AI access to your connected PSA, RMM, documentation, and security tools.",
+  "author": {
+    "name": "WYRE AI",
+    "email": "aaron@wyre.ai"
+  },
+  "homepage": "https://conduit.wyre.ai",
+  "repository": "https://github.com/WYRE-AI/conduit-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "conduit",
+    "wyre",
+    "mcp",
+    "msp",
+    "gateway",
+    "audit",
+    "oauth",
+    "psa",
+    "rmm"
+  ],
+  "logo": "assets/logo.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "conduit": {
+      "url": "https://conduit.wyre.ai/v1/mcp"
+    }
+  }
+}
